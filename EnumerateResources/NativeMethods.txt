@@ -1,0 +1,4 @@
+LoadLibraryEx
+FreeLibrary
+EnumResourceTypes
+EnumResourceNames
